@@ -1,1 +1,1 @@
-My first System engineering and DevOps class at ALX
+This is an ALX repository for System Engineering and DevOps coursework
