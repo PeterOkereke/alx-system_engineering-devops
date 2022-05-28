@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 752 user
+chmod 711 user
