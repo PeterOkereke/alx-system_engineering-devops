@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 user
+chmod a+x hello
